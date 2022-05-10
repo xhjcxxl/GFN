@@ -1,0 +1,5 @@
+very neg
+neg
+neu
+pos
+very pos
